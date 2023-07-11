@@ -1,3 +1,5 @@
+This is Login and Registration Form made in Javascript using React. 
+
 # react-redux-registration-login-example
 
 React + Redux - User Registration and Login Tutorial & Example
